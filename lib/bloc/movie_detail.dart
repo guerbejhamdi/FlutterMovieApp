@@ -1,12 +1,12 @@
 import 'package:movie_streaming/model/genre.dart';
 
 class MovieDetail{
-  final int id;
-  final bool adult;
-  final int budget;
-  final List<Genre> genres;
-  final String releaseDate;
-  final int runtime;
+  final int? id;
+  final bool? adult;
+  final int? budget;
+  final List<Genre>? genres;
+  final String? releaseDate;
+  final int? runtime;
 
   MovieDetail(
     this.id,
