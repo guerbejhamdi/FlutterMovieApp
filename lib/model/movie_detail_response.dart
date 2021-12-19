@@ -1,4 +1,4 @@
-import 'package:movie_streaming/bloc/movie_detail.dart';
+import 'package:movie_streaming/model/movie_detail.dart';
 import 'package:movie_streaming/model/movie.dart';
 
 class MovieDetailResponse{
